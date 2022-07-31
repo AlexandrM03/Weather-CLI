@@ -8,7 +8,7 @@ const initCLI = () => {
         // Help
     }
     if (args.s) {
-        // Sity
+        // Save
     }
     if (args.t) {
         // Token
